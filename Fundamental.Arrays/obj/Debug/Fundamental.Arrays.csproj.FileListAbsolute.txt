@@ -1,0 +1,5 @@
+D:\Latihan\visual studio 2012\c#\Fundamental\Fundamental.Arrays\obj\Debug\Fundamental.Arrays.csprojResolveAssemblyReference.cache
+D:\Latihan\visual studio 2012\c#\Fundamental\Fundamental.Arrays\bin\Debug\Fundamental.Arrays.exe
+D:\Latihan\visual studio 2012\c#\Fundamental\Fundamental.Arrays\bin\Debug\Fundamental.Arrays.pdb
+D:\Latihan\visual studio 2012\c#\Fundamental\Fundamental.Arrays\obj\Debug\Fundamental.Arrays.exe
+D:\Latihan\visual studio 2012\c#\Fundamental\Fundamental.Arrays\obj\Debug\Fundamental.Arrays.pdb
